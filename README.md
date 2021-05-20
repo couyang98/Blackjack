@@ -17,8 +17,8 @@ Note: When a player draws an ace(1), they can choose whether or not they want th
 
 ## Terminology
 
-Bankroll: The amount of points the player currently has.
-Wins: The number of wins by scoring higher points but not blackjack.
-Loses: The number of times the dealer wins by scoring higher points.
-Blackjacks: The number of wins by scoring blackjacks.
-Busts: THe number of loss due to player going over 21.
+Bankroll: The amount of points the player currently has.  
+Wins: The number of wins by scoring higher points but not blackjack.  
+Loses: The number of times the dealer wins by scoring higher points.  
+Blackjacks: The number of wins by scoring blackjacks.  
+Busts: THe number of loss due to player going over 21.  
